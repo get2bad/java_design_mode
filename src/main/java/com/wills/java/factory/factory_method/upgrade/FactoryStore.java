@@ -1,6 +1,4 @@
-package com.wills.java.factory_method.upgrade;
-
-import com.wills.java.factory_method.service.GoodsService;
+package com.wills.java.factory.factory_method.upgrade;
 
 /**
  * @author 王帅

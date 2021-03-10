@@ -1,12 +1,10 @@
-package com.wills.java.factory_method.simple;
+package com.wills.java.factory.factory_method.simple;
 
-import com.wills.java.common.entity.Award;
 import com.wills.java.common.entity.AwardReq;
 import com.wills.java.common.entity.CommonResult;
-import com.wills.java.factory_method.service.CouponService;
-import com.wills.java.factory_method.service.GoodsService;
-import com.wills.java.factory_method.service.VIPService;
-import lombok.extern.log4j.Log4j;
+import com.wills.java.factory.factory_method.service.CouponService;
+import com.wills.java.factory.factory_method.service.GoodsService;
+import com.wills.java.factory.factory_method.service.VIPService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 

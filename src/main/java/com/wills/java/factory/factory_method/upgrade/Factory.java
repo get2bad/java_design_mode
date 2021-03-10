@@ -1,4 +1,4 @@
-package com.wills.java.factory_method.upgrade;
+package com.wills.java.factory.factory_method.upgrade;
 
 import com.wills.java.common.entity.AwardReq;
 

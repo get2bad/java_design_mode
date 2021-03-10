@@ -1,4 +1,4 @@
-package com.wills.java.factory_method.service;
+package com.wills.java.factory.factory_method.service;
 
 /**
  * @author 王帅
