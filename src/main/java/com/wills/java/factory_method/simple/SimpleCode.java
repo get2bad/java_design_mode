@@ -25,7 +25,7 @@ public class SimpleCode {
 
     public CommonResult sendAward(AwardReq awardReq) throws InterruptedException {
         log.info("开发发放奖品：{}", awardReq.toString());
-        Thread.sleep(2000);
+//        Thread.sleep(2000);
         String res = "";
         // 开始发放奖品
         if(awardReq.getAwardType() == 1){
